@@ -2,9 +2,11 @@
 
 Find out 30 shortcuts for productivity using VS Code
 
+
 ### Assignment 2
 
 Find out the top 10 extension every developer should use.
+Here are 10 popular VS Code extensions that developers frequently use: Prettier for code formatting, ESLint for code linting, Live Server for local development, GitLens for enhanced Git integration, Debugger for Chrome for browser debugging, Bracket Pair Colorizer for improved code readability, Path Intellisense for code path suggestions, REST Client for making HTTP requests, Material Icon Theme for a visually appealing interface, and Docker for containerized development. 
 
 ### Assignment 3
 
